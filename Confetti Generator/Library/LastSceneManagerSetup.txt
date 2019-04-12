@@ -1,0 +1,4 @@
+sceneSetups:
+- path: Assets/Confetti/GameScene_Confetti.unity
+  isLoaded: 1
+  isActive: 1

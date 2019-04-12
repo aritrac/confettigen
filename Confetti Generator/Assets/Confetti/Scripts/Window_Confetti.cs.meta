@@ -1,0 +1,13 @@
+fileFormatVersion: 2
+guid: 239936e7cb4e9fb4b8cba27adb15cb88
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - pfConfetti: {fileID: 224796149882136310, guid: c22b1981ef90f9749b184e704fb224e4,
+      type: 2}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
